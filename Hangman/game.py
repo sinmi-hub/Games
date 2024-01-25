@@ -20,7 +20,7 @@ def loading_screen():
 
 # read words from the unix dictionary file (dict). We filter out words that are less than 4 characters long and words that contain an apostrophe to make the game more logical.
 def read_words():  
-    with open('Hangman/words.txt', 'r') as file:
+    with open('words.txt', 'r') as file:
         for line in file:
             if len(line) > 4 and ('\'' not in line):
                 words.append(line.strip())
