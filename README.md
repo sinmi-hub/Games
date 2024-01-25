@@ -6,3 +6,10 @@ Here is a live demo of all games so far:
 
 ## Hangman
 
+![Alt text](Game_Previews/hg.jpg)
+
+## Tic-Tac-Toe
+![Alt text](Game_Previews/t-t-t.jpg)
+
+## Rock Paper Scissors
+![Alt text](Game_Previews/rps.jpg)
