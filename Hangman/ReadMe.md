@@ -22,7 +22,7 @@ This Hangman game relies on the following dependencies:
 
 ## API Integration
 
-The game integrates with the Merriam-Webster API to provide word definitions and synonyms as hints. The API is used to enhance the gameplay experience by providing additional information about the hidden word. My personal API key is in a separate file called config. In order for the code to work properly, 2 API keys will be needed. One for Merriam Webster's Thesauraus and Merriam Webster's dictionary. These are represented in game.py as MW_API_DICTIONARY and MW_API_THESAURAUS, which are imported from config. **Due to security reasons, I will not be uploading config here.** Here is a link to get free API keys from Merriam Webster. [Merriam Webster Free API](https://dictionaryapi.com/products/index)
+The game integrates with the Merriam-Webster API to provide word definitions and synonyms as hints. The API is used to enhance the gameplay experience by providing additional information about the hidden word. My personal API key is in a separate file called config. In order for the code to work properly, 2 API keys will be needed. One for Merriam Webster's Thesauraus and Merriam Webster's dictionary. These are represented in game.py as MW_API_DICTIONARY and MW_API_THESAURAUS, which are imported from config. **Due to security reasons, I will not be uploading config here.** Here is a link to get free API keys from Merriam Webster. *Feel free to simply replace the field mentioned above with your new API key, and its all good to go*. [Merriam Webster Free API](https://dictionaryapi.com/products/index)
 
 ## File Structure
 
