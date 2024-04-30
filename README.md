@@ -5,11 +5,13 @@ Welcome to my Game Development Journey repository! This space showcases my evolv
 Here is a live demo of all games so far:
 
 ## Hangman
-
-![Alt text](Game_Previews/hg.jpg)
+![Hangman](Game_Previews/hg.jpg)
 
 ## Tic-Tac-Toe
-![Alt text](Game_Previews/t-t-t.jpg)
+![Tic-Tac-Toe](Game_Previews/t-t-t.jpg)
 
 ## Rock Paper Scissors
-![Alt text](Game_Previews/rps.jpg)
+![Rock Paper Scissors](Game_Previews/rps.jpg)
+
+## Spirograph
+![Spirograph](Game_Previews/spg.png)
