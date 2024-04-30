@@ -39,4 +39,4 @@ You can customize the art piece by adjusting:
 
 Enjoy!!!
 
-![Spirograph with random walk](image.png)
+![Spirograph with random walk](image.jpg)
