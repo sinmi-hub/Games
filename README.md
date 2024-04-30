@@ -14,4 +14,4 @@ Here is a live demo of all games so far:
 ![Rock Paper Scissors](Game_Previews/rps.jpg)
 
 ## Spirograph
-![Spirograph](Game_Previews/spg.png)
+![Spirograph](Game_Previews/spg.jpg)
